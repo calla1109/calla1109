@@ -3,7 +3,7 @@
 ---
 
 <div align="right">
-
+https://img.shields.io/badge/<Tech>-<blog>-<blue>&link=(https://velog.io/@gardenia1109)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgardenia1109&count_bg=%235B35C4&title_bg=%2399EEEF&icon=&icon_color=%23312929&title=hits&edge_flat=false)](https://github.com/gardenia1109)
 
 </div>
@@ -13,7 +13,7 @@
 &#127881;  Wellcome to my github page!!  &#127881;</h1>
 <h2>I am learning to coding. &#9997; <br>
 &#128293; I will definitely become a software developer. &#128293;	</h2>
-## <h1>&#10048; language &#10048;</h1>
+<h1>&#10048; language &#10048;</h1>
 
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
