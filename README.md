@@ -20,7 +20,7 @@
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
 </div>
-![snake gif](https://github.com/gardenia1109/gardenia1109/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gardenia1109/gardenia1109/blob/output/github-contribution-grid-snake.gif)
 <!--
 **gardenia1109/gardenia1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
