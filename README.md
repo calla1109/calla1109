@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<h1> hi! I'm sunyeong<br>
+<h1> hi! I'm sunyeong&#128516;<br>
  Wellcome to my github page!!</h1>
 </div>
 
