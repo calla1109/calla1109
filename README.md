@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Have%20a%20good%20day&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Have%20a%20good%20day&fontSize=90)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
 
 <!--
