@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-<h1> hi! I'm sunyeong </h1><br>
-<h3> Wellcome to my github page!!</h3>
+<h1> hi! I'm sunyeong<br>
+ Wellcome to my github page!!</h1>
 </div>
 
 <!--
