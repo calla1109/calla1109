@@ -33,7 +33,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDWka0MFuzAma8cwb3mkABQhaMRJoxefoPHufPHyqjZnhoZePM3CV9sWI+0S8WyXO51OUFG5oVr9KNzPcJW3nyfNjtPafwuvnyXbhggbGbg8YESbyRaW9krXME/ujslyEhsfKG1GIN2WeTvAq9E5G/ct2Sqfoq+KnCHuykx9Xhsd6A/rTAB246Y0uU+u7hEJHaBxwiiNA7bLSXosdvLBhpyNEwI6Q2W7Y2UlH9NTjyXk8Tg309yJetmJmkdMMutEiAIxOJtC6LYfSnDxTsvMcyhAEDBVD5YRVXZunh6pDtK6kC5zNgn7br0uFfsslTaUvMxTo9t4NRQmYjo6A7t/q/W8pkBxEKv6UsDNgXkRwDTsZEue9Qr1RIUKp0r5UjruFORrsHT+Z/Te51tdNkgou38B1t/2GJRsX8+6aKhb7FGTy8HL3asxQ6fzlDNGmxTxzfIL434VMnVT8dB…
+          github_token: 
           branch: master
           force: true
 
@@ -42,4 +42,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDWka0MFuzAma8cwb3mkABQhaMRJoxefoPHufPHyqjZnhoZePM3CV9sWI+0S8WyXO51OUFG5oVr9KNzPcJW3nyfNjtPafwuvnyXbhggbGbg8YESbyRaW9krXME/ujslyEhsfKG1GIN2WeTvAq9E5G/ct2Sqfoq+KnCHuykx9Xhsd6A/rTAB246Y0uU+u7hEJHaBxwiiNA7bLSXosdvLBhpyNEwI6Q2W7Y2UlH9NTjyXk8Tg309yJetmJmkdMMutEiAIxOJtC6LYfSnDxTsvMcyhAEDBVD5YRVXZunh6pDtK6kC5zNgn7br0uFfsslTaUvMxTo9t4NRQmYjo6A7t/q/W8pkBxEKv6UsDNgXkRwDTsZEue9Qr1RIUKp0r5UjruFORrsHT+Z/Te51tdNkgou38B1t/2GJRsX8+6aKhb7FGTy8HL3asxQ6fzlDNGmxTxzfIL434VMnVT8dB…
+          GITHUB_TOKEN: 
