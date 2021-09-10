@@ -22,6 +22,6 @@
 
 <div align="center">
   
-![](https://github.com/gardenia1109/gardenia1109/blob/output/github-contribution-grid-snake.gif)
+![](https://github.com/gardenia1109/gardenia1109/blob/output/github-contribution-grid-snake.svg)
   
 </div>
