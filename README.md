@@ -10,8 +10,9 @@
 
 <div align="center">
 <h1> hi! I'm sunyeong &#128516;<br>
- &#128150;	Wellcome to my github page!!&#128150;	</h1>
-
+&#127881;  Wellcome to my github page!!  &#127881;</h1>
+<h2>I am learning to coding. &#9997; <br>
+&#128293; I will definitely become a software developer. &#128293;	</h2>
 ## <h1>&#10048; language &#10048;</h1>
 
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/></a>
