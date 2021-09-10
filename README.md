@@ -10,14 +10,13 @@
 
 <div align="center">
 <h1> hi! I'm sunyeong &#128516;<br>
- Wellcome to my github page!!</h1>
+ &#128150;	Wellcome to my github page!!&#128150;	</h1>
 
-## <h1>language</h1>
+## <h1>&#10048; language &#10048;</h1>
 
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=GitlogoColor=white"/></a>
 
 </div>
 
