@@ -9,8 +9,13 @@
 </div>
 
 <div align="center">
-<h1> hi! I'm sunyeong&#128516;<br>
+<h1> hi! I'm sunyeong &#128516;<br>
  Wellcome to my github page!!</h1>
+
+## <h1>language</h1>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+
 </div>
 
 <!--
