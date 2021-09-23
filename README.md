@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Faber%20est%20suae%20quisque%20fortunae&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Faber%20est%20suae%20quisque%20fortunae&fontSize=50)
 
 ---
 
