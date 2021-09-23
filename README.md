@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Faber%20est%20suae%20quisque%20fortunae&fontSize=50)
+<div align="center"><h3>운명을 만드는 사람은 바로 자신이다.</h3></div>
 
 ---
+
 
 <div align="right">
 
