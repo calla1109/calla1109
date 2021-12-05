@@ -15,7 +15,8 @@
 &#127881;  Wellcome to my github page!!  &#127881;</h1>
 <h2>I am learning to coding. &#9997; <br>
 &#128293; I will definitely become a software developer. &#128293;	</h2>
-  <h3>my blog is [this.](https://gardenia1109.github.io/)</h3>
+  <h3>my blog is </h3>
+  https://gardenia1109.github.io
 <h1>&#10048; language &#10048;</h1>
 
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/></a>
