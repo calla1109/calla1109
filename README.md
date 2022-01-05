@@ -22,10 +22,15 @@
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+  
+  
+  
 </div>
 
 <div align="center">
   
-![](https://github.com/gardenia1109/gardenia1109/blob/output/github-contribution-grid-snake.svg)
+
   
 </div>
