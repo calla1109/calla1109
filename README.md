@@ -24,7 +24,7 @@
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-  
+![{}'s github stats](https://github-readme-stats.vercel.app/api?gardenia1109=C0deWave&show_icons=true&&theme=dracula&count_private=true)
   
   
 </div>
