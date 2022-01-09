@@ -27,10 +27,11 @@
   
 </div>
 
-
+<div align="center">
+  
 ![gardenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=gardenia1109&show_icons=true&theme=radical)
+</div>
 
-------
 <div align="center">
   
 
