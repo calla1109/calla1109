@@ -5,7 +5,7 @@
 
 <div align="right">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgardenia1109&count_bg=%235B35C4&title_bg=%2399EEEF&icon=&icon_color=%23312929&title=hits&edge_flat=false)](https://github.com/gardenia1109)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgardenia1109&count_bg=%235B35C4&title_bg=%2399EEEF&icon=&icon_color=%23312929&title=hits&edge_flat=false)](https://github.com/sunyeongjeong)
 
 </div>
 
@@ -29,9 +29,9 @@
 
 <div align="center">
   
-![gardenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=gardenia1109&show_icons=true&theme=radical)
+![gardenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunyeongjeong&show_icons=true&theme=radical)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardenia1109&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunyeongjeong&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="center">
