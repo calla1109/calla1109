@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<h1> hi! I'm sunyeong &#128516;<br>
+<h1> hi! I'm seonyeong &#128516;<br>
 &#127881;  Wellcome to my github page!!  &#127881;</h1>
 <h2>I am learning to coding. &#9997; <br>
 &#128293; I will definitely become a software developer. &#128293;	</h2>
