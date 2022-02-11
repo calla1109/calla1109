@@ -3,6 +3,12 @@
 
 ----
 
+<p align="center">
+    <img src="https://readme-stickers.vercel.app/api/korepos/medium?owner=gardenia1109&repo=sunyeongjeong.github.io&theme=dark"/>
+</p>
+
+----
+
 <div align="right">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgardenia1109&count_bg=%235B35C4&title_bg=%2399EEEF&icon=&icon_color=%23312929&title=hits&edge_flat=false)](https://github.com/sunyeongjeong)
