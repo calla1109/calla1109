@@ -11,7 +11,7 @@
 
 <div align="right">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgardenia1109&count_bg=%235B35C4&title_bg=%2399EEEF&icon=&icon_color=%23312929&title=hits&edge_flat=false)](https://github.com/sunyeongjeong)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgardenia1109&count_bg=%235B35C4&title_bg=%2399EEEF&icon=&icon_color=%23312929&title=hits&edge_flat=false)](https://sunyeongjeong.github.io)
 
 </div>
 
@@ -21,7 +21,7 @@
 <h2>I am learning to coding. &#9997; <br>
 &#128293; I will definitely become a software developer. &#128293;	</h2>
   <h3>my blog is </h3>
-  https://gardenia1109.github.io
+ https://sunyeongjeong.github.io
 <h1>&#10048; language &#10048;</h1>
 
   
