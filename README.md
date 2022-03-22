@@ -3,9 +3,11 @@
 
 ----
 
+</br>
 <p align="center">
     <img src="https://readme-stickers.vercel.app/api/korepos/medium?owner=gardenia1109&repo=sunyeongjeong.github.io&theme=dark"/>
 </p>
+</br>
 
 ----
 
@@ -14,7 +16,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgardenia1109&count_bg=%235B35C4&title_bg=%2399EEEF&icon=&icon_color=%23312929&title=hits&edge_flat=false)](https://sunyeongjeong.github.io)
 
 </div>
-
 <div align="center">
 <h1> hi! I'm seonyeong &#128516;<br>
 &#127881;  Wellcome to my github page!!  &#127881;</h1>
@@ -32,8 +33,6 @@
 <a><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=SASS&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-
-</br>
   
 </div>
 </br>
@@ -41,6 +40,8 @@
   
 ![gardenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunyeongjeong&show_icons=true&theme=radical)
   
+</br>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunyeongjeong&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
