@@ -38,11 +38,11 @@ https://gardenia0917.github.io/
 </br>
 <div align="center">
   
-![gardenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunyeongjeong&show_icons=true&theme=radical)
+![gardenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=gardenia0917&show_icons=true&theme=radical)
   
 </br>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunyeongjeong&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardenia0917&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="center">
