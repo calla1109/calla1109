@@ -3,14 +3,6 @@
 
 ----
 
-</br>
-<p align="center">
-    <img src="https://readme-stickers.vercel.app/api/korepos/medium?owner=gardenia1109&repo=sunyeongjeong.github.io&theme=dark"/>
-</p>
-</br>
-
-----
-
 
 <div align="center">
 <h1> hi! I'm seonyeong &#128516;<br>
