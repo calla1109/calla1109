@@ -11,11 +11,7 @@
 
 ----
 
-<div align="right">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgardenia1109&count_bg=%235B35C4&title_bg=%2399EEEF&icon=&icon_color=%23312929&title=hits&edge_flat=false)](https://sunyeongjeong.github.io)
-
-</div>
 <div align="center">
 <h1> hi! I'm seonyeong &#128516;<br>
 &#127881;  Wellcome to my github page!!  &#127881;</h1>
@@ -37,11 +33,11 @@
 </br>
 <div align="center">
   
-![gardenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=gardenia0917&show_icons=true&theme=radical)
+![gardenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=calla1109&show_icons=true&theme=radical)
   
 </br>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardenia0917&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calla1109&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="center">
